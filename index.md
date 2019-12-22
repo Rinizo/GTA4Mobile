@@ -1,4 +1,4 @@
-![](gtaivpng.png)
+<center> ![](gtaivpng.png) </center>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Rinizo/GTA4Mobile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
